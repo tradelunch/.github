@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?height=400&type=shark&color=random&section=header&text=TrandLunch&desc=Codes%20written%20by%20Tio%20Taek%20Lim&animation=fadeIn)
+
 authored by Tio Taek Lim
 
 <!--
