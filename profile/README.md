@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?height=400&type=shark&color=random&section=header&text=TrandLunch&desc=written%20by%20Tio%20Taek%20Lim&animation=fadeIn)
-
 
 
 
@@ -21,6 +19,9 @@
 authored by Tio Taek Lim
 
 <div align="center">
+  ![header](https://capsule-render.vercel.app/api?height=400&type=shark&color=random&section=header&text=TrandLunch&desc=written%20by%20Tio%20Taek%20Lim&animation=fadeIn)
+
+
 <h3>🛠 Tech Stack 🛠</h3>
 <p> Techs that I use the most </p>
 
