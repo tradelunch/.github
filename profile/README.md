@@ -41,10 +41,5 @@ authored by Tio Taek Lim
 </p>
 
 <h3> ☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾ </h3>
-<p>
-  <a href="https://juyami.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://juyami.tistory.com/"/></a>&nbsp
-   <a href="https://velog.io/@shinoung2360"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@shinoung2360"/></a>&nbsp
-  <a href="mailto:happyu9986@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=happyu9986@gmail.com"/></a>&nbsp
-  <a href="https://tropical-authority-8a5.notion.site/10d00028923644da9c1fb398a3c87fe5"><img src="https://img.shields.io/badge/Portfolio-9999FF?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://tropical-authority-8a5.notion.site/10d00028923644da9c1fb398a3c87fe5"/></a>&nbsp
-</p>
+
 </div>
