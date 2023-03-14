@@ -92,10 +92,13 @@
 <br />
 
 <div>
-  <h3>  👻 👻 👻  ☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾  👻 👻 👻</h3>
+  <h3>  👻 👻 👻  Contact  👻 👻 👻</h3>
   <a href="https://intothedeep.prettylog.com/"><img src="https://img.shields.io/badge/Tech%20Blog-21375A?style=flat-square&logo=Blogger&logoColor=white&link=https://intothedeep.prettylog.com/"/></a>&nbsp
   <a href="mailto:tio.taek.lim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tio.taek.lim@gmail.com"/></a>&nbsp
 </div>
 
+<-----
+☾⋆⁺₊⋆🐰 Me 🐰⋆⁺₊⋆☾
+----->
 
 </section>
