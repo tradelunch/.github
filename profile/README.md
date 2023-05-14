@@ -29,7 +29,7 @@
 <div>  
     <h3>Front</h3>
   <img src="https://img.shields.io/badge/React-0088CC?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactiveXt-B7178C?style=flat-square&logo=RxJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
