@@ -46,6 +46,9 @@
 </div>  
 <br />
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+
 <div>  
     <h3>Server</h3>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -99,8 +102,7 @@
   <a href="mailto:tio.taek.lim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tio.taek.lim@gmail.com"/></a>&nbsp
 </div>
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 
 ☾⋆⁺₊⋆🐰 Vivir mi vida 🐰⋆⁺₊⋆☾
